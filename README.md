@@ -1,1 +1,1 @@
-# widget_icons
+A set of icons representing Flutter widgets.
